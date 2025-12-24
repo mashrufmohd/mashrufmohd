@@ -26,7 +26,6 @@ Full-stack developer focused on building scalable, real-world web applications u
 ---
 
 ## 🤝 Open to
-- Remote internships / junior roles  
 - Collaborating on meaningful open-source projects  
 - Learning from experienced engineers in small teams  
 
