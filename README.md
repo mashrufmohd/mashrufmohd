@@ -1,4 +1,4 @@
-# Hi, I’m Mohammad Mashruf 👋  
+# Hi, I’m Mohd Mashruf 👋  
 
 Full-stack developer focused on building scalable, real-world web applications using modern JavaScript technologies.
 
