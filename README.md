@@ -20,15 +20,8 @@ Full-stack developer focused on building scalable, real-world web applications u
 
 ---
 
-## 📌 Current Work
-- Contributing to **Guard-AI** (Full-stack development & improvements)
-- Building and refining personal full-stack projects
-
----
-
 ## 🌱 Currently Learning
 - Advanced backend patterns with **Node.js & Express**
-- Basics of **Spring Boot**
 
 ---
 
